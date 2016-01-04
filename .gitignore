@@ -2,6 +2,9 @@
 logs
 *.log
 
+# Mac stuff (thanks, Steve!)
+.DS_Store
+
 # Runtime data
 pids
 *.pid
